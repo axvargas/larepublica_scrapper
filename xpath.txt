@@ -1,0 +1,4 @@
+Links = //h2[not(@class="headline") and not(@class="text-center heading-title")]/a[not(@class="los-mejores-colegios-de-2020-especialesSect")]/@href
+Title = //div[@class="mb-auto"]//h2/span/text()
+Abstract  = //div[@class="lead"]/p/text()
+Body = //div[@class="html-content"]/p/text()
